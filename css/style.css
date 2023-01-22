@@ -1,8 +1,4 @@
-/*Author    : Wafa Rifqi Anafin*/
-/*Github    : https://github.com/wafarifki*/
-/*Facebook  : https://facebook.com/wafarifkianafin*/
-/*Instagram : https://instagram.com/wafarifki_*/
-/*Website   : https://wafarifki.tk*/
+
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 
@@ -161,7 +157,7 @@ section.after {
   height: 70px;
   width: 54px;
   cursor: pointer;
-  background: url(../gambar/menu.png) no-repeat center;
+  background: url(../gambar/menu1.png) no-repeat center;
   background-size: 44px;
 }
 
